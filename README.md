@@ -1,5 +1,9 @@
 # DefinitelyTyped.Cordova.Plugins
 
-Type definitions for Apache Cordova plugins
+TypeScript type definitions for Apache Cordova plugins:
 - BarcodeScanner (https://github.com/wildabeast/BarcodeScanner)
+
+## Licence
+
+This project is licensed under the MIT license.
 
